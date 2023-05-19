@@ -25,5 +25,8 @@
     "react-native-masked-text": "^1.13.0",
     "react-native-paper": "^5.8.0",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/react-input-mask": "^3.0.2"
   }
 }
